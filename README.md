@@ -47,6 +47,6 @@ Try-catch blocks are employed in the `withdraw` and `deposit` methods to handle 
 
 ## Author
 
-This Bank Account Management website was created by [@Amar5623]. Feel free to explore the source code located in `script.js`, `styles.css`, and `index.html` to gain a deeper understanding of how these JavaScript concepts are implemented.
+This Bank Account Management website was created by Amar Tiwari. Feel free to explore the source code located in `script.js`, `styles.css`, and `index.html` to gain a deeper understanding of how these JavaScript concepts are implemented.
 
 If you have any questions, feedback, or suggestions, please don't hesitate to get in touch. We hope you find this project informative and useful!
