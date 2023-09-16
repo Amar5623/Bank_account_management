@@ -1,0 +1,90 @@
+/* Reset some default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Set a background color for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Style the main content container */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the account information section */
+.account {
+    margin-bottom: 20px;
+}
+
+.account h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.account p {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+/* Style the actions section */
+.actions {
+    margin-top: 20px;
+}
+
+.actions h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+label {
+    font-size: 16px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+select, input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+/* Style the result paragraph */
+#result {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: green; /* You can adjust the color as needed */
+}
